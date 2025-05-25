@@ -1,0 +1,98 @@
+WORKDAY FORM FIELD PLACEHOLDERS
+==============================
+
+Field: How Did You Hear About Us?
+Type: text
+Required: Yes
+Current Value: Empty
+Field ID: source--source
+
+Field: Have you previously worked for Automation Anywhere? If Yes, please answer the questions below.
+Type: unknown
+Required: Yes
+Current Value: Empty
+Field ID: previousWorker--candidateIsPreviousWorker
+
+Field: Country
+Type: text
+Required: Yes
+Current Value: c4f78be1a8f14da0ab49ce1162348a5e
+Field ID: country--country
+
+Field: Given Name(s)
+Type: text
+Required: Yes
+Current Value: Chetan
+Field ID: name--legalName--firstName
+
+Field: Family Name
+Type: text
+Required: No
+Current Value: Arora
+Field ID: name--legalName--lastName
+
+Field: Local Given Name(s)
+Type: text
+Required: No
+Current Value: Empty
+Field ID: name--legalName--firstNameLocal
+
+Field: Local Family Name
+Type: text
+Required: No
+Current Value: Empty
+Field ID: name--legalName--lastNameLocal
+
+Field: I have a preferred name
+Type: checkbox
+Required: No
+Current Value: Not checked
+Field ID: name--preferredCheck
+
+Field: Address Line 1
+Type: text
+Required: Yes
+Current Value: Empty
+Field ID: address--addressLine1
+
+Field: City
+Type: text
+Required: Yes
+Current Value: Empty
+Field ID: address--city
+
+Field: Postal Code
+Type: text
+Required: Yes
+Current Value: Empty
+Field ID: address--postalCode
+
+Field: Phone Device Type
+Type: text
+Required: Yes
+Current Value: Empty
+Field ID: phoneNumber--phoneType
+
+Field: Country Phone Code
+Type: multiselect
+Required: Yes
+Current Value: India (+91)
+Field ID: phoneNumber--countryPhoneCode
+
+Field: Phone Number
+Type: text
+Required: Yes
+Current Value: +91-9355844091
+Field ID: phoneNumber--phoneNumber
+
+Field: Phone Extension
+Type: text
+Required: No
+Current Value: Empty
+Field ID: phoneNumber--extension
+
+Field: Have you previously worked for Automation Anywhere? If Yes, please answer the questions below.
+Type: radio
+Required: Yes
+Current Value: Not selected
+

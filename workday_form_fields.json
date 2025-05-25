@@ -1,0 +1,113 @@
+[
+  {
+    "name": "How Did You Hear About Us?",
+    "required": true,
+    "field_type": "text",
+    "value": "Empty",
+    "id": "source--source"
+  },
+  {
+    "name": "Have you previously worked for Automation Anywhere? If Yes, please answer the questions below.",
+    "required": true,
+    "field_type": "unknown",
+    "value": "Empty",
+    "id": "previousWorker--candidateIsPreviousWorker"
+  },
+  {
+    "name": "Country",
+    "required": true,
+    "field_type": "text",
+    "value": "c4f78be1a8f14da0ab49ce1162348a5e",
+    "id": "country--country"
+  },
+  {
+    "name": "Given Name(s)",
+    "required": true,
+    "field_type": "text",
+    "value": "Chetan",
+    "id": "name--legalName--firstName"
+  },
+  {
+    "name": "Family Name",
+    "required": false,
+    "field_type": "text",
+    "value": "Arora",
+    "id": "name--legalName--lastName"
+  },
+  {
+    "name": "Local Given Name(s)",
+    "required": false,
+    "field_type": "text",
+    "value": "Empty",
+    "id": "name--legalName--firstNameLocal"
+  },
+  {
+    "name": "Local Family Name",
+    "required": false,
+    "field_type": "text",
+    "value": "Empty",
+    "id": "name--legalName--lastNameLocal"
+  },
+  {
+    "name": "I have a preferred name",
+    "required": false,
+    "field_type": "checkbox",
+    "value": "Not checked",
+    "id": "name--preferredCheck"
+  },
+  {
+    "name": "Address Line 1",
+    "required": true,
+    "field_type": "text",
+    "value": "Empty",
+    "id": "address--addressLine1"
+  },
+  {
+    "name": "City",
+    "required": true,
+    "field_type": "text",
+    "value": "Empty",
+    "id": "address--city"
+  },
+  {
+    "name": "Postal Code",
+    "required": true,
+    "field_type": "text",
+    "value": "Empty",
+    "id": "address--postalCode"
+  },
+  {
+    "name": "Phone Device Type",
+    "required": true,
+    "field_type": "text",
+    "value": "Empty",
+    "id": "phoneNumber--phoneType"
+  },
+  {
+    "name": "Country Phone Code",
+    "required": true,
+    "field_type": "multiselect",
+    "value": "India (+91)",
+    "id": "phoneNumber--countryPhoneCode"
+  },
+  {
+    "name": "Phone Number",
+    "required": true,
+    "field_type": "text",
+    "value": "+91-9355844091",
+    "id": "phoneNumber--phoneNumber"
+  },
+  {
+    "name": "Phone Extension",
+    "required": false,
+    "field_type": "text",
+    "value": "Empty",
+    "id": "phoneNumber--extension"
+  },
+  {
+    "name": "Have you previously worked for Automation Anywhere? If Yes, please answer the questions below.",
+    "required": true,
+    "field_type": "radio",
+    "value": "Not selected"
+  }
+]
