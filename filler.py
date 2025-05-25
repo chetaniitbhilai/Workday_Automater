@@ -3,7 +3,6 @@ import google.generativeai as genai  # pip install google-generativeai
 from selenium.webdriver.common.by import By
 import os
 import time
-import json
 from dotenv import load_dotenv
 import google.generativeai as genai
 import re 
